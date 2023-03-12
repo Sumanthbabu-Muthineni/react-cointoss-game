@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to left, #f9d423, #e2a139);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container2 {
+  background-color: #ffffff;
+  width: 45vw;
+  height: 55vh;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #a35200;
+}
+.head-tail {
+  color: #334155;
+}
+.toss-button {
+  width: 100px;
+  height: 30px;
+  background-color: #f9d423;
+  border: 0px solid #f9d423;
+  color: #a35200;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  justify-content: center;
+}
+.counting-variables {
+  margin-left: 30px;
+}
+.toss-img {
+  width: 70px;
+}
